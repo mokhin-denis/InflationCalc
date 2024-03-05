@@ -1,6 +1,6 @@
 Attribute VB_Name = "InflationCalc"
 'InflationCalc
-'Copyright (c) 2018 Denis Mokhin
+'Copyright (c) 2024 Denis Mokhin
 'MIT License (see LICENSE for details)
 
 Dim ТаблицаИнфляции(1991 To 2021, 1 To 12) As Double
